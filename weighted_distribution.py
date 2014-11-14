@@ -51,3 +51,20 @@ print(avg_num_c)    # proportional number of c appearing in the string
 print(avg_num_d)    # proportional number of d appearing in the string
 
 
+
+
+"""
+sample output:
+
+string: bcbcdacdcddbaccbaccccdccccbbcabacccccacdcccdccdccdcdcbccdbcdbcdbaddbadcbdcdacadcbcdbaaaccdcbadaabbcddcccbdddccbdcdcbccacccccddbcbcccbccbcbcccdadaccbccbcdddcbcbacbabbcdcdddbcdcccbdccccbbacccdbdcccdacccdcbbcacdbaccbccdbcbcccddddcccbdadccbddbbcbcbaaccccccdacacbcdbcbccbbcbcdcdbdbcccddcdbbcbbccabcabccaccbcadccccbccccadcbcdcbccdcbdcdcdccbaacdccdabdacbddcbcadbbcddcacbbbccbbacaccbccbcadccbcaccccbbcadcccdcccccccaacccdbddbbbacdcddbcdcbbbcdbdcdcaccdbcacaccdddbddcdcccccdccccbacbbbcacbcdcbccdbcacdcacbbdccccccdccbcddacbdcbccddcbdbbdbccdccbcbdbcacdacbccccbccaccadbccdcccccabbccbccdcabaccdbcddbccdcacbdccbcbcdcdadcbbcbdcbdcbccccccdbcaccdcbccddcccccacccaabcbccbbbdbbbcccdcaccacdabdcdbbbdcdcddcccbccbccacbccbaacddadcdccccbccbccdcbbccbdbcbcccccabdbdcdccbcccbcacbdbcdbdddcccbccdcbbccaaccadcbdccbddccadcdaccbcbccbbabcaccdccaccbcbddcaccccdaccccbcdcabcdcaaccbbacbddcdcccccccacbdccddaccccbbbcaabccbcccccacadacaccbcbbccbbabccbdccdcdcccadccbaccdbccbacaacccbcccdcdddcccbbdbdcadccdcddbbccccccccbbddadadcccccdaacbdbcdcccacc
+number of a appearing in the string: 113
+number of b appearing in the string: 207
+number of c appearing in the string: 483
+number of d appearing in the string: 197
+(0.1, 0.2, 0.5, 0.2)
+0.113
+0.207
+0.483
+0.197
+"""   
+
